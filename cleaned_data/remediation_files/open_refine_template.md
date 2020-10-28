@@ -26,7 +26,7 @@
 {{if(isBlank(cells['date_start_edtf'].value), '', '<dateCreated encoding="edtf" point="start">' + cells['date_start_edtf'].value + '</dateCreated><dateCreated encoding="edtf" point="end">' + cells['date_end_edtf'].value + '</dateCreated>')}}
 </originInfo>
 <physicalDescription><form authority="aat" valueURI="{{cells['form_URI'].value}}">{{cells['form'].value}}</form>
-{{if(isBlank(cells['form2'].value), '', '<form authority="aat" valueURI="' + cells['form2_URI'].value + '">' + cells['form2'].value + '</form>')}}
+{{if(isBlank(cells['form2'].value), '', '<form authority="aat" valueURI="' + cells['form2_uri'].value + '">' + cells['form2'].value + '</form>')}}
 </physicalDescription>
 {{if(isBlank(cells['note'].value), '', '<note>' + cells['note'].value + '</note>')}}
 {{if(isBlank(cells['note2'].value), '', '<note>' + cells['note2'].value + '</note>')}}
