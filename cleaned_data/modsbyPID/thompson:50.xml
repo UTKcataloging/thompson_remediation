@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_001011_000249</identifier>
+   <identifier type="pid">thompson:50</identifier>
+   <titleInfo>
+      <title>Chimneys, 1927</title>
+   </titleInfo>
+   <abstract>Group of hikers climbing the south peak of the Chimney Tops.  The photographer was on the north peak.  The Chimney Tops, classed among the sharpest promontories in the Great Smoky Mountains, are on the side of Sugarland Mountains, between Mt. LeConte and theh state line at Clingman's Dome.</abstract>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/no2018075117">
+      <namePart>Thompson Brothers Commercial Photographers</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1927</dateCreated>
+      <dateCreated encoding="edtf">1927</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4613357">
+      <geographic>Chimney Tops</geographic>
+      <cartographics>
+         <coordinates>35.62999, -83.47803</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85057008">
+      <geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Thompson Brothers Photograph Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Thompson Brothers Photograph Collection</title>
+      </titleInfo>
+      <identifier>MS-3719</identifier>
+      <location/>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>

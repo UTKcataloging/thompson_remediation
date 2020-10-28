@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">0012_001494_000200_0033</identifier>
+   <identifier type="pid">thompson:120</identifier>
+   <titleInfo>
+      <title>Frozen Stalagmite at Rainbow Falls</title>
+   </titleInfo>
+   <abstract>Hikers scaling the big frozen Stalagmite formed at Rainbow Falls, on the trail to Mt. LeConte. The formation is about 36 feet in height and has an opening in the center where a misty stream of water drops through. Photo taken Jan. 1, 1926</abstract>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/no2018075117">
+      <namePart>Thompson Brothers Commercial Photographers</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>January 1, 1926</dateCreated>
+      <dateCreated encoding="edtf">1926-01-01</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh86003920">
+      <topic>Formations (Geology)</topic>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4651952">
+      <geographic>Rainbow Falls</geographic>
+      <cartographics>
+         <coordinates>35.66233, -83.4641</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4635946">
+      <geographic>Mount Le Conte</geographic>
+      <cartographics>
+         <coordinates>35.65435, -83.43672</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85057008">
+      <geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Thompson Brothers Photograph Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>Thompson Brothers Photograph Collection</title>
+      </titleInfo>
+      <identifier>MS-3719</identifier>
+      <location/>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods>
