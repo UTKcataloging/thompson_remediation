@@ -47,7 +47,7 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Thompson Brothers Photograph Collection</title></titleInfo></relatedItem>
 {{if(isBlank(cells['archival_collection'].value), '', '<relatedItem displayLabel="Collection" type="host"><titleInfo><title>' + cells['archival_collection'].value + '</title></titleInfo><identifier>' + cells['archival_identifier'].value + '</identifier><location></location></relatedItem>')}}
 <location><physicalLocation valueURI="{{cells['physicalLocation_URI'].value}}">{{cells['physicalLocation'].value}}</physicalLocation></location>
-<recordInfo><recordContentSource valueURI="{{cells['physicalLocation_URI'].value}}">{{cells['physicalLocation'].value}}</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="{{cells['recordContentSource_URI'].value}}">{{cells['recordContentSource'].value}}</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
 
