@@ -8,7 +8,7 @@
    <titleInfo>
       <title>Views in The Great Smoky Mountains National Park</title>
    </titleInfo>
-   <abstract>Photograph of the Great Smoky Mountains National Park.</abstract>
+   <abstract>Photograph album of the Great Smoky Mountains National Park.</abstract>
    <name authority="naf"
          valueURI="http://id.loc.gov/authorities/names/no2018075117">
       <namePart>Thompson Brothers Commercial Photographers</namePart>
@@ -19,12 +19,13 @@
       </role>
    </name>
    <originInfo>
-      <dateCreated>1902-1960</dateCreated>
+      <dateCreated>1902-1940</dateCreated>
       <dateCreated encoding="edtf" point="start">1902</dateCreated>
-      <dateCreated encoding="edtf" point="end">1960</dateCreated>
+      <dateCreated encoding="edtf" point="end">1940</dateCreated>
    </originInfo>
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300028051">books</form>
    </physicalDescription>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85057008">
